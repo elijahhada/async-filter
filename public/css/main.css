@@ -1,0 +1,45 @@
+.search_aria {
+    -moz-box-shadow: 0 0 5px #999;
+    -webkit-box-shadow: 0 0 5px #999;
+    box-shadow: 0 0 5px #999;
+}
+
+.table_headers {
+    -moz-box-shadow: 0 0 5px #999;
+    -webkit-box-shadow: 0 0 5px #999;
+    box-shadow: 0 0 5px #999;
+    padding: 10px 0;
+    font-size: 20px;
+}
+
+.table_items {
+    -moz-box-shadow: 0 0 5px #999;
+    -webkit-box-shadow: 0 0 5px #999;
+    box-shadow: 0 0 5px #999;
+    padding: 10px 0;
+    margin-top: 10px;
+    transition: all ease-in-out .3s;
+}
+
+.table_items:hover {
+    cursor: pointer;
+    background-color: rgb(211, 210, 210);
+}
+
+.services_title {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.services_container {
+    display: none;
+}
+
+.f_container {
+    display: flex;
+    align-items: center;
+}
+
+#search_button {
+    height: 36px;
+}
